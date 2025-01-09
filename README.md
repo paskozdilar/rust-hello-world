@@ -3,6 +3,14 @@
 This is a Hello World program in Rust, demonstrating basic functionality of
 rustc and cargo.
 
+## Table of contents
+
+- [Installation](#installation)
+- [Basics](#basics)
+- [Build modes](#build-modes)
+- [Static linking](#static-linking)
+- [Using github as upstream](#using-github-as-upstream)
+
 ## Installation
 
 To install the Rust toolkit, we can use `rustup`:
