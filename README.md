@@ -63,7 +63,7 @@ cargo run
 This will print the following output:
 
 ```
-00000000: 27 2A 2B 2C 2D 2E 2F 30                           |'*+,-./0|
+0000:   27 2a 2b 2c  2d 2e 2f 30                             '*+,-./0
 ```
 
 ## Build modes
