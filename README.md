@@ -3,6 +3,14 @@
 This is a Hello World program in Rust, demonstrating basic functionality of
 rustc and cargo.
 
+## Installation
+
+To install the Rust toolkit, we can use `rustup`:
+
+```sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | shg
+```
+
 ## Basics
 
 To use cargo, we initialize the project directory:
