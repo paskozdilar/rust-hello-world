@@ -16,7 +16,7 @@ rustc and cargo.
 To install the Rust toolkit, we can use `rustup`:
 
 ```sh
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | shg
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ## Basics
