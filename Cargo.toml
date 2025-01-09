@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-pretty-hex = "0.4.1"
+pretty-hex = { git = "https://github.com/wolandr/pretty-hex", version = "0.4.1" }

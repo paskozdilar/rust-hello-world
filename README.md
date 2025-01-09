@@ -75,3 +75,12 @@ cargo build --release --target x86_64-unknown-linux-musl
 
 The resulting binary will be statically linked and can be run on any Linux
 system without the need for additional dependencies.
+
+## Using github as upstream
+
+To use a github repository as a dependency, we can add a flag to `cargo add`
+command:
+
+```sh
+cargo add pretty-hex --git https://github.com/wolandr/pretty-hex
+```
